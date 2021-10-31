@@ -171,6 +171,9 @@ li{
   .nav-right .grid0{
     display: none;
   }
+  .footer .footer-left li:nth-child(3) span{
+    display: none;
+  }
 }
 
 /* Surface DUO mode */
@@ -255,7 +258,7 @@ li{
     display: none;
   }
 }
-/* small-phone-version */
+/* small-moblie-version */
 @media(max-width: 320px){
   .search-bar{
     width: 260px;
